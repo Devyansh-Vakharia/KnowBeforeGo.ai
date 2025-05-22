@@ -89,7 +89,7 @@ KnowBeforeGo.ai is an intelligent company research platform that helps job seeke
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/knowbeforego-ai.git
+git clone https://github.com/yourusername/KnowBeforeGo.ai.git
 cd knowbeforego-ai
 ```
 
